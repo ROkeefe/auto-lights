@@ -1,1 +1,5 @@
 /testSleep/build
+.vs/
+.gitattributes
+/powerCycleControl/powerCycleControl/bin
+/powerCycleControl/powerCycleControl/obj
