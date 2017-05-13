@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("powerCycleControl")]
+[assembly: AssemblyTitle("lightControlService")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("powerCycleControl")]
+[assembly: AssemblyProduct("lightControlService")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0be4a13d-afdf-4703-b658-46d368070d32")]
+[assembly: Guid("c41cbd0e-fb1c-4c77-8f7f-09e591caae9c")]
 
 // Version information for an assembly consists of the following four values:
 //

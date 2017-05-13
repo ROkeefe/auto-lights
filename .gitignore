@@ -1,5 +1,5 @@
 /testSleep/build
 .vs/
 .gitattributes
-/powerCycleControl/powerCycleControl/bin
-/powerCycleControl/powerCycleControl/obj
+/lightControlService/lightControlService/bin
+/lightControlService/lightControlService/obj
